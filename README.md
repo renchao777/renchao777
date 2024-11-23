@@ -17,9 +17,6 @@
 </picture>
 
 </div>
-
-#  🙋 Hello
-
 <table>
   
 <tr><td>
@@ -36,8 +33,6 @@
 
 ## 📊 GitHub 数据统计
 
-
-
 <!-- metrics 基础资料 -->
 <img src="/github-metrics.svg" />
 
@@ -53,18 +48,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Peter-JXL&theme=light&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=Peter-JXL&theme=dark&hide_border=true" />
 </picture>
-
-
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
-
